@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#3367D6">
   <script>
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('public/sw.js')
+      navigator.serviceWorker.register('/public/sw.js')
         .then(() => console.log('SW registered'))
         .catch(console.error);
     }
