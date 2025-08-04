@@ -1,7 +1,7 @@
 {
   "name": "PWA Listen 1",
   "short_name": "pwa-L1",
-  "start_url": "/index.html",
+  "start_url": "https://gosutema7744.github.io/pwa-listen1/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3367D6",
