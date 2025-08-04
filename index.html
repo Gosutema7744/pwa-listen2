@@ -2,11 +2,11 @@
 <html>
 <head>
 
-  <link rel="manifest" href="/manifest.json">
+  <link rel="manifest" href="public/manifest.json">
   <meta name="theme-color" content="#3367D6">
   <script>
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/sw.js')
+      navigator.serviceWorker.register('public/sw.js')
         .then(() => console.log('SW registered'))
         .catch(console.error);
     }
