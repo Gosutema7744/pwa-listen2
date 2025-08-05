@@ -1,6 +1,6 @@
 const CACHE_NAME = 'v1';
 const ASSETS = [
-  'https://gosutema7744.github.io/pwa-listen1/index.html',
+  '/index.html',
   '/main.js',
   '/styles.css',
   '/icons/icon-192.png'
