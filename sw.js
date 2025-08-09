@@ -3,7 +3,7 @@ const ASSETS = [
   '/index.html',
   '/main.js',
   '/styles.css',
-  '/icons/icon-192.png'
+  '/pwa-listen2/icons/icon-192.png'
 ];
 
 // インストール時：プリキャッシュ
