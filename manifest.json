@@ -1,6 +1,6 @@
 {
-  "name": "PWA Listen 1",
-  "short_name": "pwa-L1",
+  "name": "PWA Listen 2",
+  "short_name": "pwa-L2",
   "start_url": "index.html",
   "scope": "/",
   "display": "standalone",
