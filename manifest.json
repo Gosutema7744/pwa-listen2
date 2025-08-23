@@ -2,7 +2,6 @@
   "name": "PWA Listen 2",
   "short_name": "pwa-L2",
   "start_url": "index.html",
-  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3367D6",
